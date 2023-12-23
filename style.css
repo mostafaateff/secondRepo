@@ -1,0 +1,32 @@
+/* font-family: 'Pacifico', cursive; 
+
+font-family: 'Righteous', sans-serif;
+
+font-family: 'PT Sans Caption', sans-serif;
+*/
+
+h1{
+    font-family: 'Pacifico', cursive; 
+}
+
+
+
+.main{
+    font-family: 'Righteous', sans-serif;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bookmark{
+    border-top: dotted black 2px;
+    border-bottom: dotted black 2px;
+}
+
+label , input , table {
+    font-family: 'PT Sans Caption', sans-serif;
+    font-weight: bold;
+}
+
+
